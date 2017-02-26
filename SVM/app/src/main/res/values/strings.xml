@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SVM</string>
+    <array name="actions">
+        <item>Stand Still</item>
+        <item>Running</item>
+        <item>Walking</item>
+    </array>
+    <array name="positions">
+        <item>Chest</item>
+        <item>Hands</item>
+        <item>Waist</item>
+        <item>Leg</item>
+    </array>
+</resources>
